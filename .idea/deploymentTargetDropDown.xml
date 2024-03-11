@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="DialogComponentTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="whenComponentStart_thenVerifyContentIsAris()">
+        <State />
+      </entry>
+      <entry key="whenDialogGetAFalse_thenDoNotShowDialog()">
+        <State />
+      </entry>
+      <entry key="whenDialogGetATrue_thenShowDialog()">
+        <State />
+      </entry>
+      <entry key="whenNameIsAdded_thenVerifyTextContainsGreeting()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
